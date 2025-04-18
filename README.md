@@ -2,7 +2,7 @@
 
 [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-A terminal-based Reversi game built with **C**, featuring a text-based user interface and an AI opponent powered by the **minimax algorithm** with **alpha-beta pruning** for fast decision making.
+A terminal-based reversi game built with **C**, featuring a text-based user interface and an AI opponent powered by the **minimax algorithm** with **alpha-beta pruning** for fast decision making.
 
 ---
 

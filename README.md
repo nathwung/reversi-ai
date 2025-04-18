@@ -9,9 +9,9 @@ A terminal-based reversi game built with **C**, featuring a text-based user inte
 ## 🚀 Features
 
 ### 🎮 Text-Based Gameplay
-- Fully playable Reversi (Othello) game in the terminal
-- Clean, responsive board rendering with legal move validation
-- Supports human vs. AI mode
+- Play Reversi (Othello) in the terminal through simple text input
+- Legal move validation built in
+- Supports human vs. AI gameplay
 
 ### 🧠 AI Opponent
 - AI uses the **minimax algorithm** to simulate future moves

@@ -23,7 +23,7 @@ A terminal-based reversi game built with **C**, featuring a text-based user inte
 ## 🛠 Tech Stack
 
 - **Language**: C  
-- **Interface**: Terminal (text-based)  
+- **Environment**: Terminal (text-based)  
 - **AI Logic**: Minimax with Alpha-Beta Pruning
 
 ---
